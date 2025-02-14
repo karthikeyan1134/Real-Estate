@@ -42,18 +42,18 @@ This is a **Real Estate Web Application** built using **React (Frontend)** and *
 
 ## Installation & Setup
 
-### **1 Clone the Repository**
+### **1. Clone the Repository**
 ```sh
  git clone https://github.com/karthikeyan1134/Real-Estate.git
  cd real-estate
 ```
 
-### **2 Backend Setup (PHP & MySQL)**
+### **2. Backend Setup (PHP & MySQL)**
 - Install **XAMPP** or **WAMP**
 - Start **Apache & MySQL**
 - Import `database.sql` into MySQL
 
-### **3 Frontend Setup (React)**
+### **3. Frontend Setup (React)**
 ```sh
  cd frontend
  npm install
@@ -61,7 +61,7 @@ This is a **Real Estate Web Application** built using **React (Frontend)** and *
 ```
 > Runs the frontend on `http://localhost:3000`
 
-### **4 Run Backend**
+### **4. Run Backend**
 - Place `backend/` files in `htdocs` (for XAMPP) or `www/` (for WAMP)
 - Access via `http://localhost/backend/login.php`
 
