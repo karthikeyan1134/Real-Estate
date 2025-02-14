@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Real-Estate/static/css/main.f9d13349.css",
+    "main.js": "/Real-Estate/static/js/main.459756b4.js",
+    "static/js/453.a6a97343.chunk.js": "/Real-Estate/static/js/453.a6a97343.chunk.js",
+    "static/media/img-10.jpg": "/Real-Estate/static/media/img-10.e84322b64abd46cf99f8.jpg",
+    "static/media/img-4.jpg": "/Real-Estate/static/media/img-4.70af1de18006583ba532.jpg",
+    "static/media/img-7.jpg": "/Real-Estate/static/media/img-7.a11ab82c5b01b8e12c53.jpg",
+    "static/media/img-1.jpg": "/Real-Estate/static/media/img-1.8cd27d243c50049881fb.jpg",
+    "static/media/img-3.jpg": "/Real-Estate/static/media/img-3.7e7805ef2f038562940d.jpg",
+    "static/media/img-11.jpg": "/Real-Estate/static/media/img-11.081bdeb6bfdddf410934.jpg",
+    "static/media/img-8.jpg": "/Real-Estate/static/media/img-8.fa8d807ad077d317087b.jpg",
+    "static/media/img-9.jpg": "/Real-Estate/static/media/img-9.a9811a682a286f81060f.jpg",
+    "static/media/home.jpg": "/Real-Estate/static/media/home.ce3a06df4f6db365a19d.jpg",
+    "static/media/search_img4.jpg": "/Real-Estate/static/media/search_img4.12cf9d873975db2b8e91.jpg",
+    "static/media/img-6.jpg": "/Real-Estate/static/media/img-6.5e1ad5e7085e1eaab214.jpg",
+    "static/media/search_img3.jpg": "/Real-Estate/static/media/search_img3.0448b26816e5c37fc687.jpg",
+    "static/media/img-2.jpg": "/Real-Estate/static/media/img-2.5af6880752aad647ea04.jpg",
+    "static/media/search_img.jpg": "/Real-Estate/static/media/search_img.32d67907f187d2767190.jpg",
+    "static/media/img-5.jpg": "/Real-Estate/static/media/img-5.f48011d50f2864319338.jpg",
+    "static/media/bg-home.jpg": "/Real-Estate/static/media/bg-home.472f6f4ee9b6a1d44d1a.jpg",
+    "static/media/buy-home-removebg-preview.png": "/Real-Estate/static/media/buy-home-removebg-preview.59f5df81dee659a51ca6.png",
+    "static/media/profile.webp": "/Real-Estate/static/media/profile.e308526e19929abce386.webp",
+    "static/media/cartoon-home.jpg": "/Real-Estate/static/media/cartoon-home.5a34f6fb7e35c90a696d.jpg",
+    "index.html": "/Real-Estate/index.html",
+    "main.f9d13349.css.map": "/Real-Estate/static/css/main.f9d13349.css.map",
+    "main.459756b4.js.map": "/Real-Estate/static/js/main.459756b4.js.map",
+    "453.a6a97343.chunk.js.map": "/Real-Estate/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9d13349.css",
+    "static/js/main.459756b4.js"
+  ]
+}
