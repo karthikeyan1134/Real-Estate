@@ -1,12 +1,8 @@
-# Create a README.md file with the given content
-
-readme_content = """\
 # Real Estate Web Application
 
 ## 📌 Project Overview
 This is a **Real Estate Web Application** built using **React (Frontend)** and **PHP (Backend with MySQL Database)**. The application allows users to search, post, and manage real estate listings with features like authentication, maps, and property details.
 
----
 
 ## 🚀 Features
 - **User Authentication**
@@ -26,7 +22,6 @@ This is a **Real Estate Web Application** built using **React (Frontend)** and *
   - Users can update their details
   - Manage posted properties
 
----
 
 ## 🏗 Tech Stack
 
@@ -44,22 +39,21 @@ This is a **Real Estate Web Application** built using **React (Frontend)** and *
 ### **Other Dependencies**
 - Node.js & npm (Package Management)
 
----
 
-## \ud83d\udce6 Installation & Setup
+## Installation & Setup
 
-### **1\ufe0f\u20e3 Clone the Repository**
+### **1 Clone the Repository**
 ```sh
- git clone https://github.com/your-username/real-estate.git
+ git clone https://github.com/karthikeyan1134/Real-Estate.git
  cd real-estate
 ```
 
-### **2\ufe0f\u20e3 Backend Setup (PHP & MySQL)**
+### **2 Backend Setup (PHP & MySQL)**
 - Install **XAMPP** or **WAMP**
 - Start **Apache & MySQL**
 - Import `database.sql` into MySQL
 
-### **3\ufe0f\u20e3 Frontend Setup (React)**
+### **3 Frontend Setup (React)**
 ```sh
  cd frontend
  npm install
@@ -67,13 +61,12 @@ This is a **Real Estate Web Application** built using **React (Frontend)** and *
 ```
 > Runs the frontend on `http://localhost:3000`
 
-### **4\ufe0f\u20e3 Run Backend**
+### **4 Run Backend**
 - Place `backend/` files in `htdocs` (for XAMPP) or `www/` (for WAMP)
 - Access via `http://localhost/backend/login.php`
 
----
 
-## \ud83d\udcdd API Endpoints (Backend)
+## API Endpoints (Backend)
 | Endpoint         | Method | Description          |
 |-----------------|--------|----------------------|
 | `/login.php`    | POST   | User Login          |
@@ -81,9 +74,8 @@ This is a **Real Estate Web Application** built using **React (Frontend)** and *
 | `/post.php`     | POST   | Create Property     |
 | `/database.php` | GET    | Database Connection |
 
----
 
-## \ud83d\udee0 Future Improvements
+## Future Improvements
 - **Chat system** for buyers & sellers
 - **Payment gateway** for rental deposits
 - **Advanced filters** for property search
