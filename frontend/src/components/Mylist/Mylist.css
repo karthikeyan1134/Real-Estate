@@ -1,0 +1,23 @@
+.my-cont{
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid black;
+    height: 70px;
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.my-img{
+    height: 60px;
+    width: 60px;
+    object-fit: cover;
+}
+.my-opt1{
+    font-size: 15px;
+    color: green;
+}
+.my-opt2{
+    font-size: 15px;
+    color: red;
+}

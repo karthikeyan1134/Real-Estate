@@ -1,0 +1,82 @@
+.otp-container {
+    display: flex;
+ margin-top: 6%;
+    justify-content: center;
+}
+.otp-form {
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.5);
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 2px;
+    height: 280px;
+    width: 300px;
+}
+.head {
+    display: flex;
+    justify-content: space-between;
+}
+#sub{
+    font-size: 13px;
+    margin: 3px 20px;
+}
+
+.boxes {
+    display: inline;
+    padding-left: 10px;
+}
+
+.num-cls {
+    text-align: center;
+    margin: 7px;
+    height: 25px;
+    width: 25px;
+    border: 1.2px solid gray;
+    border-radius: 4px;
+}
+
+.num-cls::-webkit-outer-spin-button,
+.num-cls::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+
+p {
+    font-size: 25px;
+    margin: 15px;
+}
+
+.icon {
+    font-size: 20px;
+    margin: 10px;
+}
+
+input {
+    font-size: 15px;
+    height: 40px;
+    width: 70%;
+    border: none;
+    outline: none !important;
+}
+
+.inp {
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin: 5px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+#log {
+    border: none;
+    border-radius: 7px;
+    color: white;
+    background-color: black;
+    width: 90%;
+    margin: 10px;
+}
+.otp-text {
+    margin: 10px 20px;
+   display: flex;
+}

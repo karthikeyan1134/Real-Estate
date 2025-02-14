@@ -1,0 +1,74 @@
+.post-cont {
+    font-weight: 400;
+    margin-top: 65px;
+}
+
+.flex-cont {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+
+.post-inp {
+    border-radius: 5px;
+    margin: 10px;
+    box-shadow: 0px 2px 4px rgba(21, 21, 21, 0.2);
+    border: none;
+}
+
+.post-select {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.num {
+    font-weight: 500;
+    margin: 15px;
+}
+
+#beds,
+#bathrooms {
+    padding: auto;
+    text-align: center;
+    height: 25px;
+    width: 35px;
+    border: 1.2px solid gray;
+    border-radius: 4px;
+}
+
+#price {
+    text-align: center;
+    height: 25px;
+    width: 65px;
+    border: 1.2px solid gray;
+    border-radius: 4px;
+}
+.right-heading {
+    margin: 10px 0;
+}
+.file {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+input[type='file'] {
+    height: 35px;
+    width: 300px;
+    box-shadow: 0px 2px 4px rgba(21, 21, 21, 0.2);
+    padding-top:6px;
+}
+#up-btn{
+    border-radius: 4px;
+    padding: 10px;
+    border-color: green;
+    background-color: rgb(227, 244, 227);
+    margin: 0;
+}
+.post-btn{
+    margin-top: 20px;
+    width: 100%;
+    border: none;
+    padding: 10px;
+    font-weight: 700;
+}

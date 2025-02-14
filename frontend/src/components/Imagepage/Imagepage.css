@@ -1,0 +1,25 @@
+.black-container {
+    background-color: black;
+
+}
+
+.img-container {
+    padding-left: 50px;
+    padding-right: 50px;
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.search_img {
+    object-fit: cover;
+    height: 600px;
+    width: 900px;
+    z-index: 1000;
+}
+
+.arr-icon {
+    color: white;
+    font-size: 40px;
+}

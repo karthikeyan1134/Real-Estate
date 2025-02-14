@@ -1,0 +1,46 @@
+#li-img {
+    height: 50%;
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.card-p {
+    font-size: 15px;
+    margin: 0 10px;
+}
+h3 {
+    margin: 4px 14px;
+}
+.added-text {
+    font-size: 14px;
+    opacity: 0.8;
+}
+.span-text {
+    margin: 0;
+}
+.span-in {
+    font-size: 15px;
+    margin: 0 8px;
+}
+.icons {
+    margin: 3px 30px 3px 30px;
+}
+.icons div {
+    margin-right: 15px;
+}
+.card-icon {
+    font-size: 15px;
+}
+
+.scale-animation {
+    transition: transform 0.1s ease;
+}
+
+.scale-animation:hover {
+    transform: scale(1.2);
+}
+
+.inline-text {
+    font-size: 15px;
+    display: inline;
+}
